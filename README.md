@@ -2,5 +2,6 @@
 
 __sveiki__
 Spīdolas Ģimnāzija Ogrē
+Jelgava
 **aaa**
 JAAAAAAAAAAAAAAAAAAAAAAAAAANS KRUMS
